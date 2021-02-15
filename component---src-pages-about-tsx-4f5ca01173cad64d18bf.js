@@ -1,2 +1,1 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"2l/u":function(t,e,a){"use strict";a.r(e),a.d(e,"query",(function(){return c}));var n=a("q1tI"),r=a.n(n),u=a("L3vG"),i=a("H8eV");e.default=function(t){var e=t.data;return r.a.createElement(u.a,null,r.a.createElement(i.a,{title:"About"}),e.site.siteMetadata.title)};var c="3159585216"}}]);
-//# sourceMappingURL=component---src-pages-about-tsx-4f5ca01173cad64d18bf.js.map
